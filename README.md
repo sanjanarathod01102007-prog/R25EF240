@@ -12,3 +12,10 @@ Hello! My name is Sanjana, and I am an engineering student pursuing my studies i
  # My Goal
 
 My goal is to improve my programming skills, build useful projects, and gain practical experience. I want to become a skilled software developer and contribute to real-world projects.
+
+## Projects
+
+I have worked on basic programming projects using C language.
+One of my projects is a Hello World program that demonstrates
+basic compilation and execution. I plan to build more projects
+to improve my programming and problem-solving skills.
