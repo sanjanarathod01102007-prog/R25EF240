@@ -19,3 +19,12 @@ I have worked on basic programming projects using C language.
 One of my projects is a Hello World program that demonstrates
 basic compilation and execution. I plan to build more projects
 to improve my programming and problem-solving skills.
+
+## Collaboration Log
+
+This activity was completed using GitLens and Live Share in Visual Studio Code.
+
+- **Pairing Partner:** [Sanjeevini Sindagi]
+- **GitHub Username:** [Sanjeevini-Sindagi]
+- **Work Completed:** Collaboratively added a `greet()` function to the `hello.c` program to display a personalized greeting.
+- **What I Learned:** I learned how to use Live Share for real-time collaboration and GitLens to track code changes, commit history, and authorship.
