@@ -1,0 +1,7 @@
+Initially, I faced difficulty installing and configuring the MinGW-w64 GCC compiler.
+I had trouble setting the GCC compiler path in the Windows environment variables.
+The terminal did not recognize the gcc command until the PATH was configured correctly.
+I installed the Microsoft C/C++ extension in VS Code to enable coding and debugging support.
+I faced some confusion while compiling and executing the C program using terminal commands.
+I resolved these issues by configuring the compiler and verifying it using gcc --version and g++ --version.
+Finally, I successfully compiled and executed the hello.c program and obtained the expected "Hello, World!" output.
