@@ -5,3 +5,6 @@ Hello! My name is Sanjana, and I am an engineering student pursuing my studies i
 
 # My skills
  I have basic knowledge of C and C++ programming. I can write simple programs, understand programming concepts, and solve basic problems. I am continuously improving my coding and problem-solving skills.
+
+# My Interests
+ My Interest: I am interested in programming, exploring new technologies, and developing creative ideas. I enjoy learning how software applications work and discovering new ways to solve problems. I also like improving my technical knowledge and learning new skills.
