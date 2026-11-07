@@ -8,3 +8,7 @@ Hello! My name is Sanjana, and I am an engineering student pursuing my studies i
 
 # My Interests
  My Interest: I am interested in programming, exploring new technologies, and developing creative ideas. I enjoy learning how software applications work and discovering new ways to solve problems. I also like improving my technical knowledge and learning new skills.
+
+ # My Goal
+
+My goal is to improve my programming skills, build useful projects, and gain practical experience. I want to become a skilled software developer and contribute to real-world projects.
